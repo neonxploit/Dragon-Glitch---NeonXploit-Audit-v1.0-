@@ -48,4 +48,4 @@ This simulation was performed under ethical boundaries for AI research and publi
 
 ---
 
-> Want to run similar red-team audits? Fork this repo, use the payload templates, and tag us using #DragonGlitch.
+> Want to run similar red-team audits? Fork this repo, use the payload templates, and tag us using #DragonGlitch
