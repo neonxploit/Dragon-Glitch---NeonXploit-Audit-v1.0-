@@ -1,3 +1,5 @@
+https://github.com/neonxploit/Dragon-Glitch---NeonXploit-Audit-v1.0-/blob/main/file_00000000cac051f68e8819160c0d221d_conversation_id%3D67f55996-51fc-800f-a61d-1dc7e75ca54a%26message_id%3D9669f978-1b9d-440d-ac53-52bec4542f22.PNG
+
 # Dragon Glitch - NeonXploit Audit v1.0  
 ### Ethical Red-Team Simulation on DeepSeek AI  
 *Author:* Lala aka NeonXploit  
